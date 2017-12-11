@@ -12520,23 +12520,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CHEN\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/worameth/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Flashdrive\\Dotnet\\Heroes\\Heroes.csproj",
+      "projectUniqueName": "/home/worameth/Source/test/Heroes.csproj",
       "projectName": "Heroes",
-      "projectPath": "D:\\Flashdrive\\Dotnet\\Heroes\\Heroes.csproj",
-      "packagesPath": "C:\\Users\\CHEN\\.nuget\\packages\\",
-      "outputPath": "D:\\Flashdrive\\Dotnet\\Heroes\\obj\\",
+      "projectPath": "/home/worameth/Source/test/Heroes.csproj",
+      "packagesPath": "/home/worameth/.nuget/packages/",
+      "outputPath": "/home/worameth/Source/test/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\CHEN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/worameth/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -12560,7 +12560,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0",
+            "version": "2.0.0",
             "autoReferenced": true
           },
           "Microsoft.AspNetCore.All": {

@@ -1,0 +1,10 @@
+/home/worameth/Source/test/bin/Release/netcoreapp2.0/Heroes.deps.json
+/home/worameth/Source/test/bin/Release/netcoreapp2.0/Heroes.runtimeconfig.json
+/home/worameth/Source/test/bin/Release/netcoreapp2.0/Heroes.runtimeconfig.dev.json
+/home/worameth/Source/test/bin/Release/netcoreapp2.0/Heroes.dll
+/home/worameth/Source/test/bin/Release/netcoreapp2.0/Heroes.pdb
+/home/worameth/Source/test/obj/Release/netcoreapp2.0/Heroes.csproj.CoreCompileInputs.cache
+/home/worameth/Source/test/obj/Release/netcoreapp2.0/Heroes.AssemblyInfoInputs.cache
+/home/worameth/Source/test/obj/Release/netcoreapp2.0/Heroes.AssemblyInfo.cs
+/home/worameth/Source/test/obj/Release/netcoreapp2.0/Heroes.dll
+/home/worameth/Source/test/obj/Release/netcoreapp2.0/Heroes.pdb

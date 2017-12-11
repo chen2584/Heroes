@@ -1,0 +1,12 @@
+/home/worameth/Source/test
+--output-path=obj/Release/netcoreapp2.0/
+--application-name=Heroes
+--content-root=/home/worameth/Source/test
+--file=/home/worameth/Source/test/Views/Home/About.cshtml
+--file=/home/worameth/Source/test/Views/Home/Contact.cshtml
+--file=/home/worameth/Source/test/Views/Home/Index.cshtml
+--file=/home/worameth/Source/test/Views/Shared/Error.cshtml
+--file=/home/worameth/Source/test/Views/Shared/_Layout.cshtml
+--file=/home/worameth/Source/test/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/home/worameth/Source/test/Views/_ViewImports.cshtml
+--file=/home/worameth/Source/test/Views/_ViewStart.cshtml
