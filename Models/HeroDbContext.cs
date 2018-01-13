@@ -12,7 +12,7 @@ namespace Heroes.Models
         public DbSet<Admins> Admins { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=127.0.0.1;Database=HeroDB;UID=worameth.s;Password=069434233;Timeout=30;");
+            optionsBuilder.UseSqlServer("Server=127.0.0.1;Database=HeroDB;UID=Chen;Password=1234;Timeout=30;");
         }
     }
 
